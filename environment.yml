@@ -8,5 +8,5 @@ dependencies:
     - seaborn
     - beautifulsoup4
     - requests
-    - re
+    
     
