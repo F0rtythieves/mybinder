@@ -1,0 +1,13 @@
+dependencies:
+  - python=3
+  - pip:
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - pandas
+    - seaborn
+    - BeautifulSoup
+    - json
+    - requests
+    - re
+    
