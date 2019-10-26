@@ -7,7 +7,6 @@ dependencies:
     - pandas
     - seaborn
     - beautifulsoup4
-    - json
     - requests
     - re
     
