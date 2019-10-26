@@ -6,7 +6,7 @@ dependencies:
     - matplotlib
     - pandas
     - seaborn
-    - BeautifulSoup
+    - beautifulsoup4
     - json
     - requests
     - re
